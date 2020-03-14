@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://kmplex.github.io"
 title = "Notepadium"
 theme = "hugo-notepadium"
 copyright = "©2020 Notepadium."
@@ -55,5 +55,5 @@ title = "About"
 url = "/about/"
 
 [[params.nav.custom]]
-title = "Hugo"
-url = "https://gohugo.io/"
+title = "kmplex"
+url = "https://kmplex.github.io/"
