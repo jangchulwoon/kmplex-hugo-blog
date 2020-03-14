@@ -1,3 +1,6 @@
 [submodule "themes/hugo-notepadium"]
 	path = themes/hugo-notepadium
 	url = https://github.com/kmplex/hugo-notepadium.git
+[submodule "public/kmplex.github.io"]
+	path = public/kmplex.github.io
+	url = https://github.com/kmplex/kmplex.github.io.git
